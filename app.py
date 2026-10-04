@@ -20,7 +20,7 @@ st.set_page_config(
 # PERSONALIZAÇÃO
 # =========================================================
 
-NOME = "Meu amor"
+NOME = "Oi, minha gostosa"
 
 
 MENSAGEM_FINAL = """
@@ -28,8 +28,8 @@ Eu poderia simplesmente ter escrito:
 
 **"Eu te amo."**
 
-Mas achei que seria mais especial transformar
-esse sentimento em algumas linhas de código.
+Mas como somos nerds, achei que seria mais especial transformar
+esse sentimento em algo diferente.
 
 Cada ponto, cada linha e cada equação
 foram feitos pensando em você.
@@ -369,7 +369,7 @@ if not st.session_state.inicio:
     )
 
     st.markdown(
-        f"# Oi, {NOME}!"
+        f"# Oi, {'Isa'}!"
     )
 
     st.markdown(
@@ -383,7 +383,7 @@ if not st.session_state.inicio:
         """
         ### Não é nada muito complicado...
 
-        São algumas linhas de Python,  
+        São algumas linhas de código,  
         matemática e um pouquinho de amor. ❤️
 
         Mas quero que você veja até o final.
